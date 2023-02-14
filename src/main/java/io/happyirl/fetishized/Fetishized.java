@@ -1,6 +1,5 @@
 package io.happyirl.fetishized;
 
-import io.happyirl.fetishized.commands.ClientRootCommand;
 import io.happyirl.fetishized.commands.ClientSubCommand;
 import io.happyirl.fetishized.commands.Fix.FixCommand;
 import io.happyirl.fetishized.commands.Fix.FixGamemodeCommand;
